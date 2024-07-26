@@ -1,28 +1,28 @@
-# ReadMe Generator
+# README Generator
 
 ## Description
 
-Generate a professional readme file
+This README generator guides a user through the process of creating a readme file
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#badges)
-- [Features](#features)
-- [How to Contribute](#contributing)
+- [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
 
-abd
+1. Clone the github repo and create your own copy 
+2. Install the inquirer module 
+3. Run the generator and answer all the questions
 
 ## Usage
 
-1. a 2. b 3. c
+The application should guide you through creating a high quality readme file by answering all prompts, and can be used for any development project
 
 ## Credits
 
@@ -30,19 +30,7 @@ N/A
 
 ## License
 
-MIT
-
----
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-1 2 3
+The MIT License
 
 ## How to Contribute
 
@@ -54,6 +42,7 @@ N/A
 
 ## Questions
 
-[GitHub profile link](https://github.com/egodschalk)
-[email link](mailto:egodschalk@gmail.com)
+[GitHub Profile](https://github.com/egodschalk)
+
+[egodschalk@gmail.com](mailto:egodschalk@gmail.com)
 

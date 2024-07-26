@@ -35,14 +35,9 @@ const questions = [
             },
             {
                 type: "list",
-                message: "The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).",
+                message: "Choose a license for your project",
                 name: "license",
-                choices: ["Apache License 2.0", "GNU GPLv2", "GNU GPLv3", "ISC License", "MIT License"],
-            },
-            {
-                type: "input",
-                message: "If your project has a lot of features, list them here.",
-                name: "features",
+                choices: ["Apache 2.0 License", "GNU GPLv2", "GNU GPLv3", "ISC License", "The MIT License"],
             },
             {
                 type: "input",
