@@ -16,9 +16,7 @@ This README generator guides a user through the process of creating a readme fil
 
 ## Installation
 
-1. Clone the github repo and create your own copy 
-2. Install the inquirer module 
-3. Run the generator and answer all the questions
+Clone the github repo and create your own copy. Install the inquirer module. Run the generator and answer all the questions 
 
 ## Usage
 
