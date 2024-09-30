@@ -4,7 +4,7 @@
 
 This README generator guides a user through the process of creating a readme file
 
-##GitHub Repo
+## GitHub Repo
 
 https://github.com/egodschalk/read-me-generator
 
