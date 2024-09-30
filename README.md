@@ -37,5 +37,5 @@ N/A
 
 [GitHub Profile](https://github.com/egodschalk)
 
-[egodschalk@gmail.com](mailto:egodschalk@gmail.com)
+[elizgodschalk@gmail.com](mailto:elizgodschalk@gmail.com)
 
