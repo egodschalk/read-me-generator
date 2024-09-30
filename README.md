@@ -1,7 +1,41 @@
-# Professional README Generator Starter Code
+# README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
 
-The link to my GitHub repo for this project is: https://github.com/egodschalk/read-me-generator
+This README generator guides a user through the process of creating a readme file
 
-The link to my walkthrough video on Google Drive is: https://drive.google.com/file/d/1vaNsvfxRkUl7jplNhX-2_uQhSQZbuuHH/view
+##GitHub Repo
+
+https://github.com/egodschalk/read-me-generator
+
+## Walkthrough Video
+
+(for assignment submission) https://drive.google.com/file/d/1vaNsvfxRkUl7jplNhX-2_uQhSQZbuuHH/view
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Questions](#questions)
+
+## Installation
+
+1. Clone the github repo and create your own copy
+2. Install the inquirer module
+3. Run the generator and answer all the questions 
+
+## Usage
+
+The application guides you through creating a high quality readme file by answering all prompts, and can be used for any development project
+
+## Credits
+
+N/A
+
+## Questions
+
+[GitHub Profile](https://github.com/egodschalk)
+
+[egodschalk@gmail.com](mailto:egodschalk@gmail.com)
+
